@@ -23,7 +23,7 @@ The customer and product tables are both connected to the sales table with a one
     
 ### Customer & City Analysis
   - The top 3 cities with the highest number of customers are Jaipur with 69 customers, Delhi with 68 customers, and Pune with 52 total customers.
-  - 
+    
 ### Product Performance
   - The top 5 best-selling products for CoffeeCo are as follows; Cold Brew Coffee Pack (6 Bottles) with a total of approximately 1.2M INR within the year under review. The remaining 4 products in descending order are Coffee Beans with total sales 400k INR less than the top-performing product, Coffee Gift Hamper, Ground Espresso Coffee (250g), and Tote Bag with Coffee Design.
   - There were no customer ratings less than 3 for any transaction or product. This further buttresses the high customer satisfaction mentioned earlier.
